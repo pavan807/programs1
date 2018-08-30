@@ -1,0 +1,69 @@
+<!DocType html>
+<html>
+  <head>
+  <link rel="stylesheet" href="css/contact1.css">
+         <title>Contact Blue Developer Directory</title>
+  </head>
+<body>
+     <h1 >
+        Blue developer Directory
+	 </h1>
+	 <h2>Find A Developer Now</h2>
+	 <ul>
+	 <li class="menuitem"><a href="contact.html">Home</a></li>
+	 <li class="menuitem"><a href="about.html">About Us</a></li>
+	 <li class="menuitem"><a href="browse.html">Browse Developers</a></li>
+	 <li class="menuitem"><a href="contact.html">Contact Us</a></li>
+	 </ul>
+	 <h3>Links
+	 </h3>
+	 <ul>
+	 <li><a href="browse.html">SEO</a></li>
+	 <li><a href="browse.html">PHP</a></li>
+	 <li><a href="browse.html">Ajax</a></li>
+	 <li><a href="browse.html">JQuery</a></li>
+	 <li><a href="browse.html">Web Design</a></li>
+	 <li><a href="browse.html">Web Programming</a></li>
+	 <li><a href="browse.html">Content Creation</a></li>
+	 
+	 </ul>
+
+<h2>Welcome to Blue Developer Directory</h2>
+<img class="float" src="Lighthouse.jpg">
+<h3> Who are we</h3>
+<p>We are functional website msdck wcjbhnhjsa jnkenhb  jkewhhuw mmkldslkmlc </p>
+<h3>What Skills do our developers have?</h3>
+<p>Our listed developers have knowledge in sabbmj sc hgvyc ijs njb wcui nb kjc kn wnm</p>
+
+<h2>Latest Blue Developers</h2>
+<h4>Adam Sullivan</h4>
+<ul>
+<li><strong>Location: </strong>Boston USA</li>
+<li><strong>Skills: </strong>HTML/CSS, PHP</li>
+<li><strong>Availability: </strong>Full Time</li>
+</ul>
+<a href="#">View Profile</a>
+<h4>Rick Monree</h4>
+<ul>
+<li><strong>Location: </strong>Boston USA</li>
+<li><strong>Skills: </strong>HTML/CSS, PHP,RQR</li>
+<li><strong>Availability: </strong>Full Time</li>
+</ul>
+<a href="#">View Profile</a>
+<h4>Michael Oliver</h4>
+<ul>
+<li><strong>Location: </strong>Boston USA</li>
+<li><strong>Skills: </strong>HTML/CSS, PHP</li>
+<li><strong>Availability: </strong>Full Time</li>
+</ul>
+<a href="#">View Profile</a>
+<h4>Megan Jennings</h4>
+<ul>
+<li><strong>Location: </strong>Boston USA</li>
+<li><strong>Skills: </strong>HTML/CSS, PHP</li>
+<li><strong>Availability: </strong>Full Time</li>
+</ul>
+<a href="#">View Profile</a>
+
+</body>
+</html>
